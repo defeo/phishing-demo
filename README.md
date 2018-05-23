@@ -81,7 +81,7 @@ ways in which this attack can succeed, nevertheless:
 
 - Browser is old (e.g., IE 10);
 - Browser has never visited the website before;
-- Website does not activate STS: this is the case for linkedin.com
+- Website does not activate STS: this is a moving target
   (the redirect to https must not be in the browser's cache, however).
 
 To run the show, stop monitoring on the wireless interface

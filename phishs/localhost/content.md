@@ -29,6 +29,26 @@
 <img src="art/pwned.png" height="600">
 
 
+## Même avec un mot de passe (WPA-PSK)
+
+Dans les résaux wifi protégés par WEP ou WPA (ce que vous avez à la
+maison), il suffit de capturer les paquets de la victime dès sa
+connexion au réseau...
+
+
+<img src="art/pwned.png" height="600">
+
+
+## Même sans connaître le mot de passe
+
+<img src="art/krack.png" height="200" style="vertical-align: middle"> 
+<https://www.krackattacks.com/>
+
+En 2017, des failles dans le protocole WPA ont permis de décrypter
+tout le traffic WPA sans connaissance du mot de passe. (*Patchs de
+sécurité* distribués à l'été 2017).
+
+
 ## La crypto met les espions à la porte
 
 <img src="art/https.png" height="100">
@@ -75,9 +95,11 @@ Michael Hayden, ex-directeur de la NSA
 | Google | ✓ |
 | Twitter | ✓ |
 | Instagram | ✓ |
-| **LinkedIn** | × |
-| Société Générale | × |
-| BNP Paribas | × |
+| LinkedIn | ✓ |
+| Société Générale | ✓ |
+| BNP Paribas | ✓ |
+| Crédit coopératif | × |
+| Parcoursup | × |
 | ... | |
 
 
