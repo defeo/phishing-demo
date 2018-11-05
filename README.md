@@ -11,7 +11,7 @@ You will need the following software
 - [aircrack-ng](https://www.aircrack-ng.org/) for wifi sniffing,
 - [wireshark](https://www.wireshark.org/) for packet analysis,
 - [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html),
-  [hostap](http://w1.fi/) and
+  [hostapd](http://w1.fi/) and
   [create_ap](https://github.com/oblique/create_ap) for creating a
   wireless access point.
 
